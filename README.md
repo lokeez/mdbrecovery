@@ -1,4 +1,4 @@
-![Python check](https://github.com/USER/REPO/actions/workflows/python.yml/badge.svg)
+[![Python check](https://github.com/lokeez/mdbrecovery/actions/workflows/python.yml/badge.svg)](https://github.com/lokeez/mdbrecovery/actions/workflows/python.yml)
 
 ## Python version
 
