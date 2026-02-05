@@ -1,3 +1,5 @@
+![Python check](https://github.com/USER/REPO/actions/workflows/python.yml/badge.svg)
+
 ## Python version
 
 Python port of the original C implementation by
