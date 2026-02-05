@@ -1,4 +1,5 @@
 [![Python check](https://github.com/lokeez/mdbrecovery/actions/workflows/python.yml/badge.svg)](https://github.com/lokeez/mdbrecovery/actions/workflows/python.yml)
+[![python](https://img.shields.io/badge/Python-3.14-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 
 ## Python version
 
