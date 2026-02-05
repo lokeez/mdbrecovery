@@ -1,3 +1,11 @@
+## Python version
+
+Python port of the original C implementation by
+Benjamin "Benno" Falkner.
+
+This port follows the same logic and is provided
+under the MIT License.
+
 # mdbrecovery
 MS Access database password recovery
 
